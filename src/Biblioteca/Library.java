@@ -20,7 +20,6 @@ public class Library {
         if(book.getName().equals(s)){
             books.remove(book);
             return true;
-
         }
         }
         return false;
@@ -32,5 +31,17 @@ public class Library {
 
     public void addBook(Book book) {
         books.add(book);
+    }
+
+    public boolean isBookPresent(String bookName) {
+        Iterator<Book> bookIterator = books.iterator();
+        while (bookIterator.hasNext()){
+            Book book = bookIterator.next();
+            if(book.getName().equals(bookName)){
+                return true;
+
+            }
+        }
+        return false;
     }
 }

@@ -30,8 +30,8 @@
       <file leaf-file-name="BookTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/BookTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6224649">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.5138539">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,13 +43,13 @@
         <entry file="file://$PROJECT_DIR$/src/Biblioteca/Library.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,8 +119,8 @@
         <option value="$PROJECT_DIR$/src/WyCash/Dollor.java" />
         <option value="$PROJECT_DIR$/tests/DollorTest.java" />
         <option value="$PROJECT_DIR$/src/Biblioteca/Config.java" />
-        <option value="$PROJECT_DIR$/tests/BookTest.java" />
         <option value="$PROJECT_DIR$/src/Biblioteca/Book.java" />
+        <option value="$PROJECT_DIR$/tests/BookTest.java" />
         <option value="$PROJECT_DIR$/src/Biblioteca/Library.java" />
       </list>
     </option>
@@ -270,28 +270,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BookTest">
-    <configuration default="false" name="GameLauncherTest.multiplyShouldReturnProdOfTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="tests" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GameLauncherTest" />
-      <option name="METHOD_NAME" value="multiplyShouldReturnProdOfTwoNumbers" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.BookTest.addbookShouldAddPassedBookToLibrary">
     <configuration default="false" name="DollorTest.testMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="tests" />
@@ -363,6 +342,27 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BookTest" />
       <option name="METHOD_NAME" value="CheckoutMethodShouldReduceBookCountByOneFromLibraryIfSuccessfulCheckout" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="BookTest.addbookShouldAddPassedBookToLibrary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="tests" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookTest" />
+      <option name="METHOD_NAME" value="addbookShouldAddPassedBookToLibrary" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -461,19 +461,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.GameLauncherTest.multiplyShouldReturnProdOfTwoNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.DollorTest.testMultiplication" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BookTest.bookShouldReturnBookDetailsOnToStringMethodCall" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.BookTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BookTest.CheckoutMethodShouldReduceBookCountByOneFromLibraryIfSuccessfulCheckout" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.DollorTest.testMultiplication" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.BookTest.bookShouldReturnBookDetailsOnToStringMethodCall" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BookTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.BookTest.CheckoutMethodShouldReduceBookCountByOneFromLibraryIfSuccessfulCheckout" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.BookTest.addbookShouldAddPassedBookToLibrary" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BookTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BookTest.CheckoutMethodShouldReduceBookCountByOneFromLibraryIfSuccessfulCheckout" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BookTest.bookShouldReturnBookDetailsOnToStringMethodCall" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.DollorTest.testMultiplication" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.GameLauncherTest.multiplyShouldReturnProdOfTwoNumbers" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BookTest.addbookShouldAddPassedBookToLibrary" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BookTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BookTest.CheckoutMethodShouldReduceBookCountByOneFromLibraryIfSuccessfulCheckout" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.BookTest.bookShouldReturnBookDetailsOnToStringMethodCall" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DollorTest.testMultiplication" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
@@ -500,7 +500,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935917" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36363637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36363637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23695976" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -551,10 +551,10 @@
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -866,21 +866,21 @@
     <entry file="file://$PROJECT_DIR$/src/Biblioteca/Library.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/BookTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6224649">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.5138539">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
