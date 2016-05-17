@@ -6,6 +6,6 @@ package Biblioteca;
 public class Config {
     public static final String DUMMY_BOOK_NAME = "The Monk Who sold his ferarri";
     public static final String DUMMY_BOOK_AUTHOR = "Robin Sharma";
-    public static final String DUMMY_BOOK_YEAR_PUBLISHED = "1996";
+    public static final int DUMMY_BOOK_YEAR_PUBLISHED = 1996;
 
 }
