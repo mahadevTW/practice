@@ -16,6 +16,5 @@ public class DollorTest {
         assertEquals(10,product.amount);
         assertEquals(product,five.times(2));
     }
-    @Test
-    public void
+   
 }
